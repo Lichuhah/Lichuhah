@@ -3,7 +3,7 @@
 
 <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"> @lichuhah </img>
 
-<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"> belovanton.work@gmail.com </img>
+<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"> belovanton.work@gmail,com </img>
 <br />
 <br />
 
