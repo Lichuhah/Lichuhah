@@ -1,6 +1,3 @@
-###
-<img align="left" src="https://github.com/Lichuhah/Lichuhah/blob/master/tV9cXlZbnJ8.jpg">
-
 ### Connect with me:
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg"> vk.com/lichuhah </img>
 <br />
