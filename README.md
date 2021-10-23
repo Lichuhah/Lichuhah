@@ -5,7 +5,7 @@
 <br />
 <br />
 
-Languages:
+### Languages:
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" />
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplusplus.svg" />
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />
@@ -14,7 +14,7 @@ Languages:
 <br />
 <br />
 
-Tools:
+### Tools:
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/visualstudio.svg" />
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/visualstudiocode.svg" />
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/microsoftsqlserver.svg" />
