@@ -25,6 +25,12 @@
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/androidstudio.svg" />
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/qt.svg" />
 
+<br />
+<br />
+
+### Organization:
+<img align="left" width="26px" src="https://github.com/Lichuhah/Lichuhah/blob/master/SUAI.png" />
+<img align="left" width="26px" src="https://github.com/Lichuhah/Lichuhah/blob/master/TRIM.png" />
 <!--
 **Lichuhah/Lichuhah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
