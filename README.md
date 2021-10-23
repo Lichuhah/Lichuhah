@@ -33,6 +33,9 @@
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 <img align="left" width="80px" src="https://github.com/Lichuhah/Lichuhah/blob/master/TRIM.png"> SpecTec: Programmer </img>
 <!--
 **Lichuhah/Lichuhah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
