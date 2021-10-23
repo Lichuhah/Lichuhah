@@ -1,29 +1,29 @@
 ### Connect with me:
-<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg"> vk.com/lichuhah </img>
+<img width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg"> vk.com/lichuhah </img>
 
-<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"> @lichuhah </img>
+<img width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"> @lichuhah </img>
 
-<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"> belovanton.work@gmail,com </img>
+<img width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"> belovanton.work@gmail,com </img>
 <br />
 <br />
 
 ### Languages:
-<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" />
-<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplusplus.svg" />
-<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />
-<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" />
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" />
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplusplus.svg" />
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" />
 
 <br />
 <br />
 
 ### Tools:
-<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/visualstudio.svg" />
-<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/visualstudiocode.svg" />
-<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/microsoftsqlserver.svg" />
-<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/mysql.svg" />
-<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/intellijidea.svg" />
-<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/androidstudio.svg" />
-<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/qt.svg" />
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/visualstudio.svg" />
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/visualstudiocode.svg" />
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/microsoftsqlserver.svg" />
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/mysql.svg" />
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/intellijidea.svg" />
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/androidstudio.svg" />
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/qt.svg" />
 
 <br />
 <br />
