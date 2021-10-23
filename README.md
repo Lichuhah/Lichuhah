@@ -1,5 +1,6 @@
 ### Connect with me:
 <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg"> https://vk.com/lichuhah </img>
+
 <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"> @lichuhah </img>
 
 <br />
