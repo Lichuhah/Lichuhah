@@ -1,9 +1,9 @@
 ### Connect with me:
-<img width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg"> vk.com/lichuhah </img>
+<img width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg"> vk.com/lichuhah </img>
 
-<img width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"> @lichuhah </img>
+<img width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"> @lichuhah </img>
 
-<img width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"> belovanton.work@gmail,com </img>
+<img width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"> belovanton.work@gmail,com </img>
 <br />
 <br />
 
