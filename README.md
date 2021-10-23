@@ -2,14 +2,14 @@
 <img align="left" alt="codeSTACKr | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 <img align="left" alt="codeSTACKr | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 <br />
-### Languages:
+Languages:
 <br />
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" />
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplusplus.svg" />
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" />
 <br />
-### Tools:
+Tools:
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/visualstudio.svg" />
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/visualstudiocode.svg" />
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/microsoftsqlserver.svg" />
