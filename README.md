@@ -1,22 +1,22 @@
 ### Connect with me:
-[<img align="left" alt="codeSTACKr | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />]
-[<img align="left" alt="codeSTACKr | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />]
+<img align="left" alt="codeSTACKr | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
+<img align="left" alt="codeSTACKr | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 
 ### Languages:
 
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" />][webdevplaylist]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplusplus.svg" />][webdevplaylist]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />][webdevplaylist]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" />][webdevplaylist]
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" />
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplusplus.svg" />
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" />
 
 ### Tools:
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/visualstudio.svg" />][webdevplaylist]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/visualstudiocode.svg" />][webdevplaylist]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/microsoftsqlserver.svg" />][webdevplaylist]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/mysql.svg" />][webdevplaylist]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/intellijidea.svg" />][webdevplaylist]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/androidstudio.svg" />][webdevplaylist]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/qt.svg" />][webdevplaylist]
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/visualstudio.svg" />
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/visualstudiocode.svg" />
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/microsoftsqlserver.svg" />
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/mysql.svg" />
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/intellijidea.svg" />]
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/androidstudio.svg" />]
+<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/qt.svg" />]
 
 <!--
 **Lichuhah/Lichuhah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
