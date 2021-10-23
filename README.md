@@ -33,7 +33,7 @@
 <br />
 
 ### Organization:
-<img align="left" width="80px" src="https://github.com/Lichuhah/Lichuhah/blob/master/SUAI.png"> SUAI: Bachelor student, 3rd year, Software Engineering </img>
+<img align="left" width="80px" src="https://github.com/Lichuhah/Lichuhah/blob/master/SUAI.png"> SUAI: Bachelor student, Software Engineering </img>
 <br />
 <br />
 <br />
