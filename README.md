@@ -7,7 +7,7 @@
 <br />
 <br />
 <br />
-<img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"> belovanton.work@gmail,com </img>
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"> belovanton.work@gmail.com </img>
 <br />
 <br />
 
