@@ -21,8 +21,7 @@
 <br />
 
 ### Tools:
-IDE: <br />
-<img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/visualstudio.svg" />
+IDE: <br /> <img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/visualstudio.svg" />
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/visualstudiocode.svg" />
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/intellijidea.svg" />
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/androidstudio.svg" />
@@ -31,8 +30,7 @@ IDE: <br />
 <br />
 <br />
 
-DB: <br />
-<img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/microsoftsqlserver.svg" />
+DB: <br /> <img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/microsoftsqlserver.svg" />
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/mysql.svg" />
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/postgresql.svg" />
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/mongodb.svg" />
