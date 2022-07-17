@@ -20,12 +20,11 @@
 <br />
 <br />
 
-### IDE: 
-<img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/visualstudio.svg" />
-<img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/visualstudiocode.svg" />
-<img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/intellijidea.svg" />
-<img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/androidstudio.svg" />
-<img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/qt.svg" />
+### Libraries, tools and other:
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/xamarin.svg" />
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/jquery.svg" />
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/arduino.svg" />
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/unity.svg" />
 
 <br />
 <br />
@@ -33,6 +32,7 @@
 ### DataBase:
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/microsoftsqlserver.svg" />
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/mysql.svg" />
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/postgresql.svg" />
 <br />
 <br />
 
