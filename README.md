@@ -22,7 +22,6 @@
 
 ### Libraries, tools and other:
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/xamarin.svg" />
-<img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/jquery.svg" />
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/arduino.svg" />
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/unity.svg" />
 
