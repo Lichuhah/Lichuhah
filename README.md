@@ -3,7 +3,7 @@
 <br />
 <br />
 <br />
-<img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"> @lichuhah </img>
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"> @lichwork </img>
 <br />
 <br />
 <br />
