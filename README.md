@@ -38,7 +38,8 @@
 <br />
 <br />
 <img align="left" width="80px" src="https://github.com/Lichuhah/Lichuhah/blob/master/TRIM.png"> SpecTec: Junior programmer </img>
-
+<br />
+<br />
 
 <!--START_SECTION:waka-readme-stats-total-->
 **I'm a Night 🦉** 
