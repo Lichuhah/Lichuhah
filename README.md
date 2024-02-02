@@ -20,6 +20,7 @@
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/typescript.svg" />
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/react.svg" />
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/redux.svg" />
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.19.0/icons/mobx.svg" />
 
 <br />
 <br />
